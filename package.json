@@ -1,0 +1,11 @@
+{
+  "name": "collectish",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.0.1",
+    "bootstrap": "3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.7.1"
+  }
+}
